@@ -2,11 +2,11 @@
 
 This project demonstrates basic logging using SLF4J with Logback.
 
-## 🛠️ Dependencies
+## Dependencies
 - SLF4J API 1.7.30
 - Logback Classic 1.2.3
 
-## 🧪 How to Run
+## How to Run
 
 1. Build the project with Maven:
    ```
